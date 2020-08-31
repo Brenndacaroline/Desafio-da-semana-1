@@ -1,0 +1,20 @@
+h1,h2{
+    color:white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:5px;
+}
+
+.titulo{
+    background-color: orange;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#img{
+    text-align:center;
+
+}
+ 
